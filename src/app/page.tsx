@@ -13,6 +13,7 @@ export default function Home() {
     <Button onClick={() => router.push('/login')}>Login</Button>
     <Button onClick={() => router.push('/register')}>Register</Button>
     <Button onClick={() => router.push('/dashboard')}>Dashboard</Button>
+    <Button onClick={() => router.push('/crud')}>Crud</Button>
     
   </Box>
    </>
